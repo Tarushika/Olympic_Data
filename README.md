@@ -17,3 +17,5 @@ Technologies: MySQL, PostgreSQL,SQL workbench.
 Implemented indexing strategies that significantly improved database read/write operations.Received commendation from senior management for enhancing database performance and reducing operational costs.
 
 I made a PPT for better understand of SQL Quries. 
+
+
