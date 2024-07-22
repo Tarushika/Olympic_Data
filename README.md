@@ -18,4 +18,5 @@ Implemented indexing strategies that significantly improved database read/write 
 
 I made a PPT for better understand of SQL Quries. 
 
-
+ 
+![image](https://github.com/user-attachments/assets/21803628-53e4-474a-97c2-6f9075c98964)
